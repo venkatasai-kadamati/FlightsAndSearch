@@ -4,7 +4,7 @@
   "description": "Microservice to handle the Flight CRUD.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx nodemon src/index"
   },
   "author": "Venkatasai Kadamati",
   "license": "ISC", 
